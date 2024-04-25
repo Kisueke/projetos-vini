@@ -1,0 +1,45 @@
+body{background-color: black;}
+#july{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: aliceblue;
+}
+.center{
+    text-align: center;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+    border: solid red;
+}
+#luffy{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: aliceblue;
+    border: solid red;
+    border-width: 5px;
+}
+#Zoro{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+.Zoro{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: solid green;
+}
+#Zoro{
+    color: aliceblue;
+    border: solid green;
+    border-width: 5px;
+
+}
+#Sanji{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    border: solid yellow;
+    border-width: 5px;   
+}
+.Sanji{
+    border-radius: 50%;
+    border: solid yellow;
+}
+
